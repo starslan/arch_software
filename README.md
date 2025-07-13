@@ -9,3 +9,4 @@
 - [Артефакт7](./artefact7.md)
 - [Артефакт8](./artefact8.md)
 - [Артефакт9](./artefact9.md)
+- [Артефакт10](./artefact10.md)
