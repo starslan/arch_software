@@ -7,3 +7,4 @@
 - [Артефакт5](./artefact5.md)
 - [Артефакт6](./artefact6.md)
 - [Артефакт7](./artefact7.md)
+- [Артефакт8](./artefact8.md)
