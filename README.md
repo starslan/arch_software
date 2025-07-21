@@ -4,7 +4,7 @@
 - [Артефакт 1](./artefact1.md)
 - [Артефакт 2](./artefact2.md)
 - [Артефакт 3](./artefact3.md)
-- [Артефакт 4](./images/Концептуальная_схема.png)
+- [Артефакт 4](./artefact4.md)
 - [Артефакт 5](./artefact5.md)
 - [Артефакт 6](./artefact6.md)
 - [Артефакт 7](./artefact7.md)
