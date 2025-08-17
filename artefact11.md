@@ -1,4 +1,4 @@
-# Архитектурные решения (ADR)
+# Архитектурные решения (ADR).
 
 - [ADR1 - Выбор СУБД для User Service](./ADR/ADR1.md)
 - [ADR2 - Выбор API Gateway](./ADR/ADR2.md)
